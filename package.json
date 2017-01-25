@@ -1,0 +1,12 @@
+{
+  "name": "spotify_api_training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Matthias LECONTE <pixmat@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.23.0",
+    "universal-fetch": "^1.0.0"
+  }
+}
